@@ -1,4 +1,6 @@
+
 .card{
+    display: inline-block;
     cursor:pointer;
     background: rgb(231, 231, 231);
     border-radius:20px;
